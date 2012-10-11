@@ -1,0 +1,25 @@
+{
+    "name": "andshort/andshort",
+    "type": "library",
+	"description": "Lightweight url shortenner",
+    "license": "MIT",
+    "keywords": [
+        "shortenner",
+        "php"
+    ],
+	"authors": [
+        {
+            "name": "Oscar Nevarez Leal",
+            "email": "insane@instropy.com",
+            "homepage": "http://instropy.com",
+            "role": "Developer"
+        }
+    ],
+    
+	"homepage": "http://a.instropy.com",
+    
+	"require": {
+        "php": ">=5.3.3",
+		"php-activerecord/php-activerecord": "dev-master"
+    }
+}
